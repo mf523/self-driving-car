@@ -2,4 +2,4 @@
 
 ## Raspberry Pi
 ### Software
-* pip install gpiozero
+* gpiozero -> https://gpiozero.readthedocs.io/en/stable/installing.html
