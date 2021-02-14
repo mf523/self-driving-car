@@ -2,4 +2,4 @@
 
 ## Raspberry Pi
 ### Software
-* pip install RPi.GPIO
+* pip install gpiozero
